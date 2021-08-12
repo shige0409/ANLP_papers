@@ -1,4 +1,17 @@
 # 読む予定の論文リスト
 - [ ] 1. [マルチタスク学習による一貫性のある求人記事分類及び職種フレーズと記事見出し文の生成](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P7-9.pdf)
 - [ ] 2. [指定語句を確実に含む見出し生成](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/B6-4.pdf)
-- [ ] 3. [小規模リソースにおける生成型要約のためのスタイル転移](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/A4-1.pdf)
+- [ ] 3. [非自己回帰モデルを用いた日本語見出し生成の検討](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/B7-2.pdf)
+- [ ] 4. [小規模リソースにおける生成型要約のためのスタイル転移](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/A4-1.pdf)
+- [ ] 5. [見出し生成の忠実性の改善](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/A4-2.pdf)
+- [ ] 6. [翻訳と見出し文生成の同時学習による言語横断見出し文生成モデル](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/A6-4.pdf)
+- [ ] 7. [複数エンコーダを用いたヤフートピックス見出し候補生成](https://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/A1-3.pdf)
+- [ ] 8. []()
+- [ ] 9. []()
+- [ ] 10. []()
+- [ ] 11. []()
+- [ ] 12. []()
+- [ ] 13. []()
+- [ ] 14. []()
+- [ ] 15. []()
+
