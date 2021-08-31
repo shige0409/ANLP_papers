@@ -8,7 +8,7 @@
 - [ ] 7. [複数エンコーダを用いたヤフートピックス見出し候補生成](https://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/A1-3.pdf)
 - [ ] 8. [複数コーパスを利用したキャッチフレーズの特徴分析.](https://www.jstage.jst.go.jp/article/jjske/11/2/11_2_233/_pdf)
 - [ ] 9. [ウェブにおけるユーザの嗜好を反映させたキャッチコピー自動生成システム](https://www.jstage.jst.go.jp/article/jjske/13/4/13_493/_pdf/-char/ja)
-- [ ] 10. []()
+- [ ] 10. [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf)
 - [ ] 11. []()
 - [ ] 12. []()
 - [ ] 13. []()
